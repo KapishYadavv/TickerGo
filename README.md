@@ -2,6 +2,7 @@
 # 🟢 Bid-Ask Quoter
 
 A high-performance bid-ask quoting engine designed for use in simulated markets. Built with a focus on latency, precision, and customizability, this tool enables efficient market making, price discovery, and liquidity simulation.
+![image](https://github.com/KapishYadavv/TickerGo/blob/29bc08f9c6582f86a0774546b4cf5e2f8ad901c4/Screenshot%202025-07-29%20211721.png)
 
 ## 🚀 Features
 
