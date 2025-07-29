@@ -22,7 +22,8 @@ A high-performance bid-ask quoting engine designed for use in simulated markets.
 
 ## 📸 Screenshot / Demo (Optional)
 > ![image](https://github.com/KapishYadavv/TickerGo/blob/d7afe35a5703e8a885d3d0e8794c9649c83126e6/assets/terminalquoter1.png)
-
+ ---
+> ![image](https://github.com/KapishYadavv/TickerGo/blob/3d69688b132508a72654a97f7a71bc30f02503ab/assets/values.png)
 ---
 
 ## 🛠️ Tech Stack
